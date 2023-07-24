@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com/nguyenphan299";
+            window.location = "http://fb.com/hung2026";
           },
         });
       }
