@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Ăn rồi",
   text7: "Em ăn cơm với gì",
   text8: "gửi",
-  text9: "MH vippro",
+  text9: "Minh Hưng siêu cấp vippro",
   text10: "Hehe",
   text11:
     "Bái bai",
